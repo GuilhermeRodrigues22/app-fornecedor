@@ -1,0 +1,22 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Mick",
+      "email": "mick@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Steven",
+      "email": "steven@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Carlos",
+      "email": "carlos22@gmail.com",
+      "telefone": 11932125432,
+      "cpf": 434343434343,
+      "cidade": "Itu"
+    }
+  ]
+}
