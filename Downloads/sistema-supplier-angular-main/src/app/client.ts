@@ -1,11 +1,11 @@
-import { EmailValidator } from "@angular/forms";
+
 
 export interface Client
 {
   id: number;
   name: string;
   telefone: number;
-  email: EmailValidator;
+  email: string;
   cpf: number;
   cidade: string;
 }

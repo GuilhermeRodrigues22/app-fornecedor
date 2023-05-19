@@ -1,22 +1,22 @@
 {
   "clients": [
     {
-      "id": 1,
-      "name": "Mick",
-      "email": "mick@gmail.com"
-    },
-    {
-      "id": 2,
-      "name": "Steven",
-      "email": "steven@gmail.com"
-    },
-    {
-      "id": 3,
-      "name": "Carlos",
-      "email": "carlos22@gmail.com",
-      "telefone": 11932125432,
-      "cpf": 434343434343,
+      "id": 4,
+      "name": "Guilherme",
+      "email": "gui@gmail.com",
+      "telefone": 323232323232,
+      "cpf": 5454545454,
       "cidade": "Itu"
+    }
+  ],
+  "suplliers": [
+    {
+      "id": 1,
+      "name": "Jose",
+      "email": "jose11@gmail.com"
+      "telefone": "21212121",
+      "produto": "geladeira",
+      
     }
   ]
 }
